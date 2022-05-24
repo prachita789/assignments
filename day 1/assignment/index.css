@@ -1,0 +1,38 @@
+#winner{
+    height: 6rem;
+    width: 25rem;
+    border: 1px solid red;
+   margin: auto;
+}
+#container{
+    margin-top: 55px;
+    height: 20rem;
+    width: 85%;
+    border: 1px solid black;
+    display: flex;
+    margin-left: 45px;
+    justify-content: space-around;
+    
+
+}
+#member-1,#member-2,#member-3{
+    height: 16rem;
+    width: 15rem;
+    border: 1px solid red;
+    margin-top: 25px;
+    
+}
+#button{
+    margin-top: 15px;
+    display: flex;
+    
+    justify-content: center;
+
+}
+#roll{
+    font-size: medium;
+    font-weight: bold;
+    height: 35px;
+   
+    
+}
